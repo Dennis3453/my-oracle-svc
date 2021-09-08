@@ -8,8 +8,9 @@ Oracle database 19c
 MYSCHEMA  
 MYUSER
 
-### Table Schema
+### Table Schema & db config
 src\main\resources\sql\schema-oracle-myschema.sql
+src\main\resources\application.properties
 
 ### Controllers (All Post)
     http://localhost:8080/api/test  
