@@ -9,7 +9,7 @@ MYSCHEMA
 MYUSER
 
 ### Table Schema & db config
-src\main\resources\sql\schema-oracle-myschema.sql
+src\main\resources\sql\schema-oracle-myschema.sql  
 src\main\resources\application.properties
 
 ### Controllers (All Post)
